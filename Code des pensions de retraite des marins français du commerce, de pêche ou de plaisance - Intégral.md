@@ -1,5 +1,5 @@
 # Code des pensions de retraite des marins français du commerce, de pêche ou de plaisance  
-Version Consolidée au 1985-01-04
+Version Consolidée au 1985-04-24
 
 # Partie législative
 
@@ -1889,35 +1889,6 @@ l'intéressée atteint l'âge de cinquante-cinq ans.
 	**Modifié par**:
 
 	  - Décret n°81-50 1981-01-21 art. 3 JORF 24 janvier 1981
-
-
-###### Article R17
-
-Les veuves remariées, redevenues veuves, ou divorcées ou séparées de corps à leur profit, recouvrent l'intégralité de leur
-droit à pension si elles sont âgées de soixante ans au moins ou de cinquante-cinq ans en cas d'incapacité de travail égale ou
-supérieure à 80 % [*taux*] et si les revenus des avoirs à elles laissés par leur second mari ne sont pas soumis à l'impôt sur
-le revenu des personnes physiques ou si elles ont cotisé audit impôt pour un revenu net ne dépassant pas 600 F [*montant*]
-après application de l'abattement à la base et déduction pour charges de famille.
-
-**Nota:**
-
-[*Nota : Code des pensions de retraite des marins R29 :
-
-dispositions applicables dans le territoire de Saint-Pierre-et-Miquelon.*]
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code des pensions de retraite des marins R29
-
-	**Codifié par**:
-
-	  - Décret n°68-292 1968-03-21 JORF 31 mars 1968
-
-	**Abrogé par**:
-
-	  - Décret n°85-451 du 22 avril 1985 - art. 2 (V) JORF 24 avril 1985
 
 
 ###### Article R18
