@@ -1,5 +1,5 @@
 # Code des pensions de retraite des marins français du commerce, de pêche ou de plaisance  
-Version Consolidée au 1989-01-01
+Version Consolidée au 1990-01-25
 
 # Partie législative
 
@@ -1410,19 +1410,29 @@ l'article L. 41.
 
 ###### Article L48
 
-Les dispositions du présent code (1re partie) sont applicables dans la collectivité territoriale de Saint-Pierre-et-Miquelon.
+Les dispositions du présent code (1re partie) sont applicables dans la collectivité territoriale de Saint-Pierre-et-
+Miquelon. 
 
 Elles sont également applicables, selon des modalités qui sont déterminées par décret, aux marins français immatriculés dans
 le territoire de la Polynésie française, pour les services accomplis sur des bâtiments français. Les services accomplis
 antérieurement à l'entrée en vigueur de la loi n° 66-510 du 12 juillet 1966 sont pris en compte pour l'ouverture du droit à
-pension des intéressés et la liquidation de cette pension dans des conditions qui sont fixées par décret en Conseil d'Etat.
+pension des intéressés et la liquidation de cette pension dans des conditions qui sont fixées par décret en Conseil d'Etat. 
+
+Les dispositions du présent code sont en outre applicables aux marins français embarqués sur navires français immatriculés
+dans le territoire d'outre-mer des Terres australes et antarctiques françaises. 
+
+Les contributions patronales et les cotisations personnelles dues au titre des services accomplis à bord des navires visés à
+l'alinéa ci-dessus sont calculées selon des taux fixés par décret. 
+
+Les taux de calcul des contributions patronales peuvent être modulés en fonction des caractéristiques techniques, des
+modalités d'exploitation et du trafic desdits navires, pour une partie de l'équipage qui ne peut excéder un pourcentage fixé
+par décret.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Code des pensions de retraite des marins partie 1
-	  - Loi n°66-510 1966-07-12
+	  - Loi n°66-510 du 12 juillet 1966
 
 	**Codifié par**:
 
@@ -1430,7 +1440,15 @@ pension des intéressés et la liquidation de cette pension dans des conditions 
 
 	**Modifié par**:
 
-	  - Loi n°85-595 du 11 juin 1985 - art. 1 (Ab) JORF 18 juin 1985
+	  - Loi n°90-86 du 23 janvier 1990 - art. 22 () JORF 25 janvier 1990
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5795-15 (Ab)
 
 
 ###### Article L49
@@ -1461,84 +1479,6 @@ du 12 juillet 1966.
 	**Abrogé par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
-
-
-## Titre V : Assurance volontaire.
-
-###### Article L50
-
-Par dérogation aux dispositions des articles L. 742-1 et L. 742-2 du code de la sécurité sociale, les Français occupant un
-emploi permanent à bord d'un navire battant pavillon étranger peuvent être affiliés à un régime d'assurance volontaire géré
-par l'établissement des invalides de la marine.
-
-Un décret en Conseil d'Etat fixe les conditions d'affiliation des assurés volontaires ainsi que les droits et obligations
-résultant de cette affiliation.
-
-**Nota:**
-
-[*Nota : Code des pensions de retraite des marins L48 :
-
-dispositions applicables dans le territoire de Saint-Pierre-et-Miquelon et de la Polynésie française.*]
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code des pensions de retraite des marins L48
-
-	**Codifié par**:
-
-	  - Décret n°68-292 1968-03-21 JORF 31 mars 1968
-
-	**Créé par**:
-
-	  - Loi n°87-39 du 27 janvier 1987 - art. 6 () JORF 28 janvier 1987
-
-	**Abrogé par**:
-
-	  - Loi n°90-86 du 23 janvier 1990 - art. 22 () JORF 25 janvier 1990
-
-	**Cite**:
-
-	  - Code de la sécurité sociale. - art. L742-1 (M)
-	  - Code de la sécurité sociale. - art. L742-2 (M)
-
-
-###### Article L51
-
-Les marins étrangers autorisés à embarquer sous pavillon français et non admis à concourir à pension en application des
-dispositions du présent code peuvent être affiliés au régime d'assurance volontaire visé à l'article L. 50.
-
-Un décret en Conseil d'Etat fixe les conditions d'affiliation des intéressés à ce régime ainsi que les droits et obligations
-en résultant.
-
-**Nota:**
-
-[*Nota : Code des pensions de retraite des marins L48 :
-
-dispositions applicables dans le territoire de Saint-Pierre-et-Miquelon et de la Polynésie française.*]
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code des pensions de retraite des marins L48
-
-	**Cite**:
-
-	  - Code des pensions de retraite des marins L50
-
-	**Codifié par**:
-
-	  - Décret n°68-292 1968-03-21 JORF 31 mars 1968
-
-	**Créé par**:
-
-	  - Loi n°87-39 du 27 janvier 1987 - art. 6 () JORF 28 janvier 1987
-
-	**Abrogé par**:
-
-	  - Loi n°90-86 du 23 janvier 1990 - art. 22 () JORF 25 janvier 1990
 
 
 # Partie réglementaire - Décrets en Conseil d'Etat
