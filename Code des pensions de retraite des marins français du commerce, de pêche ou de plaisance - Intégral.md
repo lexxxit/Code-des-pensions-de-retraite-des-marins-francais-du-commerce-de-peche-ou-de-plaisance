@@ -1,5 +1,5 @@
 # Code des pensions de retraite des marins français du commerce, de pêche ou de plaisance  
-Version Consolidée au 1990-04-12
+Version Consolidée au 1991-05-01
 
 # Partie législative
 
@@ -2128,17 +2128,15 @@ Cotisation ouvrière (%)    : 11,90
 TOTAL                      : 29,60
 
 Lorsqu'il est établi, par un rapport de l'autorité consulaire annexé au rôle d'équipage, que l'embarquement d'étrangers hors
-d'un port français a été motivé par l'absence de marins français au port d'embarquement, la contribution patronale est
-ramenée de 28,40 p. 100 [*pourcentage*] à 17,70 p. 100 jusqu'au jour où le navire touche un port français.
+d'un port français a été motivé par l'absence de marins français au port d'embarquement, le montant du versement défini à
+l'alinéa précédent est, sous réserve que les marins étrangers concernés ne soient pas admis à concourir à pension, réduit au
+montant de la contribution patronale de droit commun jusqu'au jour où le navire touche un port français.
 
 **Nota:**
 
 [*Nota : Code des pensions de retraite des marins R29 :
 
-dispositions applicables dans le territoire de Saint-Pierre-et-Miquelon.
-
-Décret 90-328 du 10 avril 1990 art. 3 : les dispositions du présent décret s'appliquent aux rémunérations versées à compter
-du 1er mars 1990*].
+dispositions applicables dans le territoire de Saint-Pierre-et-Miquelon.*]
 
 **Liens relatifs à cet article**
 
@@ -2157,17 +2155,20 @@ du 1er mars 1990*].
 
 	**Modifié par**:
 
-	  - Décret n°90-328 du 10 avril 1990 - art. 2 () JORF 12 avril 1990
+	  - Décret n°91-371 du 11 avril 1991 - art. 1 () JORF 17 avril 1991 en vigueur le 1er mai 1991
 
 
 ###### Article R25
 
-L'exonération de la contribution patronale établie par l'article L. 43 est totale lorsque la longueur hors-tout du bateau est
-inférieur ou égale à douze mètres.
+Un décret détermine les taux de la contribution patronale prévue à l'article L. 41, applicables aux propriétaires ou
+copropriétaires de bateaux d'une longueur inférieure ou égale à 12 mètres, d'une part, et aux propriétaires ou
+copropriétaires de bateaux d'une longueur supérieure à 12 mètres et inférieure ou égale à 25 mètres, d'autre part, qui
+bénéficient de l'exonération prévue à l'article L. 43.
 
-Lorsque la longueur hors-tout du bateau, supérieure à douze mètres, est inférieure ou égale à vingt-cinq mètres, le taux de
-la contribution patronale établie par l'article L. 41 est fixé à 13 p. cent en ce qui concerne le propriétaire ou les
-copropriétaires embarqués et à 14 p. cent en ce qui concerne les autres membres de l'équipage.
+De même, sont fixés par décret les taux de contribution applicables aux bateaux dotés d'un certificat de jauge établi selon
+les normes définies par la convention internationale d'Oslo et délivré avant le 1er janvier 1986. En cas de propriété ou de
+copropriété de plusieurs bateaux armés simultanément, la jauge à prendre en considération est la somme des jauges brutes de
+l'ensemble des bateaux.
 
 En cas de propriété ou de copropriété de plusieurs bateaux, la longueur à prendre en considération est calculée selon la
 formule suivante :
@@ -2177,27 +2178,15 @@ représente la longueur hors-tout de chacun des bateaux appartenant aux proprié
 cubes des longueurs l, et L la longueur à comparer aux limites de douze et vingt-cinq mètres.
 
 En ce qui concerne les pilotes, les exonérations prévues à l'alinéa ci-dessus ne sont accordées que lorsque le volume annuel
-des bateaux pilotés dans la station à l'entrée et à la sortie des ports n'excède pas dix millions de mètres cubes [*volume
-maximum*]. Le droit à exonérations, apprécié au 1er janvier de chaque année au regard des résultats de l'avant-dernière année
-civile [*périodicité*], est accordé à compter de cette date pour une durée de douze mois.
-
-**Nota:**
-
-[*Nota : Loi 85-10 du 3 janvier 1985 art. 91 II : les dispositions de cet article demeurent applicables dans leur rédaction
-antérieure aux navires dotés d'un certificat de jauge établi selon les normes définies par la convention internationale
-d'Oslo de 1965 et délivré avant le 1er janvier 1986.
-
-Code des pensions de retraite des marins R29 : dispositions applicables dans le territoire de Saint-Pierre-et-Miquelon.*]
+des bateaux pilotés dans la station à l'entrée et à la sortie des ports n'excède pas dix millions de mètres cubes. Le droit à
+exonérations, apprécié au 1er janvier de chaque année au regard des résultats de l'avant-dernière année civile, est accordé à
+compter de cette date pour une durée de douze mois.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Code des pensions de retraite des marins L43, L41
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code des pensions de retraite des marins R29
+	  - Code des pensions de retraite des marins français du commerce, de pêche ou de plaisance L41, L43
 
 	**Codifié par**:
 
@@ -2205,7 +2194,7 @@ Code des pensions de retraite des marins R29 : dispositions applicables dans le 
 
 	**Modifié par**:
 
-	  - Décret n°85-1531 1985-12-31 art. 1 JORF 11 janvier 1986 en vigueur le 1er janvier 1986
+	  - Décret n°91-371 du 11 avril 1991 - art. 2 () JORF 17 avril 1991 en vigueur le 1er mai 1991
 
 
 ###### Article R26
