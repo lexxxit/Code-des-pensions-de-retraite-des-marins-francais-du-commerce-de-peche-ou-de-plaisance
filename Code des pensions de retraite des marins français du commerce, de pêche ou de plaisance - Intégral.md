@@ -1,5 +1,5 @@
 # Code des pensions de retraite des marins français du commerce, de pêche ou de plaisance  
-Version Consolidée au 2001-12-29
+Version Consolidée au 2002-10-20
 
 # Partie législative
 
@@ -1738,9 +1738,9 @@ cette campagne que pour un cas de force majeure ou pour cause de maladie.
 
 ###### Article R8
 
-Entrent en compte [*pour le calcul de la pension, validation de périodes*] :
+Entrent en compte :
 
-I - Par application de l'article L. 12-4° [*temps d'interruption de la navigation*] :
+I - Par application de l'article L. 12 (4°) :
 
 a) Le temps passé par les marins provenant de l'équipage d'un navire naufragé ou déclaré innavigable, entre la date du
 naufrage ou de la déclaration d'innavigabilité et la date de retour des intéressés rapatriés dans la métropole par un navire
@@ -1770,7 +1770,7 @@ hostilités jusqu'à des dates fixées par arrêté du ministre chargé de la ma
 retour à leur port d'immatriculation et le temps de service des marins embarqués pour former ou compléter l'équipage de
 navires alliés ou mis à la disposition des forces alliées.
 
-II - Par application de l'article L. 12-5° :
+II - Par application de l'article L. 12 (5°) :
 
 Les périodes de séjour antérieures à l'ouverture du rôle d'équipage ou postérieures à la clôture de ce rôle, employées par
 les marins à la surveillance des aménagements des navires en construction, aux réparations, à la garde, à l'entretien et aux
@@ -1779,12 +1779,14 @@ marins qui ont été embarqués sur le bâtiment à l'ouverture du rôle et il e
 maximale annuelle de deux mois et, pour chaque marin, à trois mois par an. Les délais ci-dessus peuvent, par une décision
 spéciale du ministre chargé de la marine marchande, être portés au double en cas de force majeure ou de réparations.
 
-III - Par application de l'article L. 12-6° :
+III - Par application de l'article L. 12 (6°) :
 
 Les services définis audit article, dans la limite de quinze ans.
 
 IV - Par application de l'article L. 12 (9°), les périodes définies par cette disposition législative accomplies avant que le
-marin ait atteint l'âge de cinquante-cinq ans.
+marin ait atteint l'âge de cinquante-cinq ans ou les périodes de perception d'une allocation de cessation anticipée
+d'activité en faveur des marins exposés ou ayant été exposés à l'amiante accomplies avant l'âge de soixante ans en cas de
+droit à pension spéciale mentionnée à l'article L. 8.
 
 V - Par application de l'article L. 12 (12°) :
 
@@ -1792,21 +1794,11 @@ Dans la limite de la durée de services requis pour ouvrir droit à pension d'an
 de travail pendant lesquelles le marin a perçu, en raison d'une maladie ou d'un accident non professionnels, une pension
 d'invalidité sur la caisse générale de prévoyance des marins français.
 
-**Nota:**
-
-[*Nota : Code des pensions de retraite des marins R29 :
-
-dispositions applicables dans le territoire de Saint-Pierre-et-Miquelon.*]
-
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code des pensions de retraite des marins R29
 
 	**Cite**:
 
-	  - Code des pensions de retraite des marins français du commerce, de pêche ou de plaisance L12, R4
+	  - Code des pensions de retraite des marins français du commerce, de pêche ou de plaisance L12, R4, L8
 	  - Décret n°59-626 1959-05-12 art. 11
 	  - Code du travail 79, 81, 82, 85
 	  - Décret-loi 1938-06-17 art. 3
@@ -1817,7 +1809,7 @@ dispositions applicables dans le territoire de Saint-Pierre-et-Miquelon.*]
 
 	**Modifié par**:
 
-	  - Décret n°2001-764 du 28 août 2001 - art. 1 () JORF 30 août 2001
+	  - Décret n°2002-1271 du 18 octobre 2002 - art. 1 () JORF 20 octobre 2002
 
 	**Cité par**:
 
