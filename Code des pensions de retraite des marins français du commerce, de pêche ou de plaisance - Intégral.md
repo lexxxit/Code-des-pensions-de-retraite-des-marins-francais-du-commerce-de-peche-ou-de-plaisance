@@ -1,5 +1,5 @@
 # Code des pensions de retraite des marins français du commerce, de pêche ou de plaisance  
-Version Consolidée au 1999-04-09
+Version Consolidée au 2000-12-24
 
 # Partie législative
 
@@ -372,6 +372,9 @@ façon permanente, l'entreprise d'armement maritime qu'il dirige ;
 11° Le temps passé dans les activités mentionnées aux 7° et 10° dès lors que le marin est reconnu atteint d'une infirmité le
 mettant dans l'impossibilité absolue et définitive de continuer l'exercice de la navigation.
 
+12° Dans des limites fixées par voie réglementaire, les périodes pendant lesquelles un marin a perçu une pension d'invalidité
+en raison d'une maladie ou d'un accident non professionnels.
+
 La prise en compte de services accomplis par les marins dans d'autres positions spéciales afférentes à leur profession peut
 être autorisée par voie réglementaire.
 
@@ -391,10 +394,6 @@ dispositions applicables dans le territoire de Saint-Pierre-et-Miquelon et de la
 
 	  - Décret n°68-292 1968-03-21 JORF 31 mars 1968
 
-	**Modifié par**:
-
-	  - Loi n°97-1051 du 18 novembre 1997 - art. 29 () JORF 19 novembre 1997
-
 	**Cite**:
 
 	  - Loi n°97-1051 du 18 novembre 1997 - art. 53 (M)
@@ -402,6 +401,10 @@ dispositions applicables dans le territoire de Saint-Pierre-et-Miquelon et de la
 	  - Code du travail - art. L322-4 (M)
 	  - Code du travail - art. L351-1 (M)
 	  - Code du travail - art. L351-6-1 (M)
+
+	**Modifié par**:
+
+	  - Loi n°2000-1257 du 23 décembre 2000 - art. 33 () JORF 24 décembre 2000
 
 	**Cité par**:
 
@@ -1149,22 +1152,29 @@ passible des sanctions prévues à l'article L. 92 du Code des pensions civiles 
 
 ###### Article L41
 
-Tous les services à bord des navires de commerce ou de pêche par des marins français, par des agents du service général ainsi
-que par des marins n'ayant pas la nationalité française et tous les services (autres que les services à l'Etat) et les
-périodes de privation d'emploi mentionnées à l'article L. 12-9° qui sont de nature à ouvrir droit au bénéfice des pensions ou
-allocations servies par la caisse de retraites, donnent lieu [*attributions*], de la part des propriétaires ou armateurs de
-navires de mer ou de la part des employeurs, à un versement calculé en fonction des salaires des marins et destiné à
-l'alimentation de la caisse.
+I. - Tous les services accomplis par des marins à bord des navires de commerce, de pêche, de cultures marines ou de plaisance
+qui sont de nature à ouvrir droit au bénéfice des pensions ou allocations servies par la caisse de retraite des marins
+donnent lieu, de la part des propriétaires ou armateurs de navires de mer ou de la part des employeurs, à un versement
+calculé en fonction des salaires des marins et destiné à l'alimentation de la caisse.
 
-Ce versement comprend, outre la contribution patronale incombant aux propriétaires, armateurs ou employeurs, les cotisations
+Ce versement comprend, outre la contribution patronale incombant aux propriétaires armateurs ou employeurs, les cotisations
 personnelles des marins, dont le montant est retenu lors du règlement des salaires. Le taux de la contribution patronale est
 fixé par catégories de navires définies en fonction des caractéristiques techniques, des modalités d'exploitation et de
 l'activité de ces navires.
 
 Ce versement est garanti par le même privilège que les salaires des gens de mer.
 
-Les droits correspondant auxdits versements se prescrivent par cinq ans [*délai*] à dater du désarmement administratif du
-bâtiment.
+Les droits correspondant auxdits versements se prescrivent par cinq ans, à dater du désarmement administratif du bâtiment.
+
+II. - Tous les services non embarqués accomplis par des marins et qui sont de nature à ouvrir droit au bénéfice des pensions
+ou allocations servies par la caisse de retraite des marins donnent lieu, de la part des employeurs, à un versement calculé
+sur les mêmes bases et comprenant les mêmes éléments que le versement prévu au I.
+
+III. - Les périodes de perception d'une indemnité journalière sur la Caisse générale de prévoyance des marins français en cas
+d'accident, de maladie résultant d'un risque professionnel, d'accident non professionnel, de maladie ou de maternité donnent
+lieu, de la part des bénéficiaires, au versement de la cotisation personnelle assise sur le montant de cette indemnité.
+
+IV. - Les services à l'Etat ainsi que les périodes visées aux 9° et 12° de l'article L. 12 ne donnent pas lieu à versement.
 
 **Nota:**
 
@@ -1174,13 +1184,13 @@ dispositions applicables dans le territoire de Saint-Pierre-et-Miquelon et de la
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Code des pensions de retraite des marins L12 9°
-
 	**Liens**:
 
 	  - SPEC_APPLI: Code des pensions de retraite des marins L48
+
+	**Cite**:
+
+	  - Code des pensions de retraite des marins français du commerce, de pêche ou de plaisance L12
 
 	**Codifié par**:
 
@@ -1188,7 +1198,7 @@ dispositions applicables dans le territoire de Saint-Pierre-et-Miquelon et de la
 
 	**Modifié par**:
 
-	  - Loi n°94-43 du 18 janvier 1994 - art. 74 () JORF 19 janvier 1994
+	  - Loi n°2000-1257 du 23 décembre 2000 - art. 33 () JORF 24 décembre 2000
 
 
 ###### Article L42
