@@ -1,5 +1,5 @@
 # Code des pensions de retraite des marins français du commerce, de pêche ou de plaisance  
-Version Consolidée au 1990-01-25
+Version Consolidée au 1990-04-12
 
 # Partie législative
 
@@ -2096,6 +2096,37 @@ Cotisation ouvrière (%)    : néant
 
 TOTAL                      : 28,40
 
+DESIGNATION :
+
+Marins français embarqués sur :
+
+- navires de commerce immatriculés dans le territoire des Terres australes et antarctiques françaises, exploités en transport
+à la demande, lorsque la proportion française de l'équipage est au moins égale à 35 % :
+
+1. Pour chaque marin français compris dans les 35 %
+
+Contribution patronale (%) : 5,20
+
+Cotisation ouvrière (%)    : 11,90
+
+TOTAL                      : 17,10
+
+2. Pour chaque marin français supplémentaire
+
+Contribution patronale (%) : 17,70
+
+Cotisation ouvrière (%)    : 11,90
+
+TOTAL                      : 29,60
+
+- autres navires immatriculés dans le T.T.A.A.F.
+
+Contribution patronale (%) : 17,70
+
+Cotisation ouvrière (%)    : 11,90
+
+TOTAL                      : 29,60
+
 Lorsqu'il est établi, par un rapport de l'autorité consulaire annexé au rôle d'équipage, que l'embarquement d'étrangers hors
 d'un port français a été motivé par l'absence de marins français au port d'embarquement, la contribution patronale est
 ramenée de 28,40 p. 100 [*pourcentage*] à 17,70 p. 100 jusqu'au jour où le navire touche un port français.
@@ -2104,7 +2135,10 @@ ramenée de 28,40 p. 100 [*pourcentage*] à 17,70 p. 100 jusqu'au jour où le na
 
 [*Nota : Code des pensions de retraite des marins R29 :
 
-dispositions applicables dans le territoire de Saint-Pierre-et-Miquelon.*]
+dispositions applicables dans le territoire de Saint-Pierre-et-Miquelon.
+
+Décret 90-328 du 10 avril 1990 art. 3 : les dispositions du présent décret s'appliquent aux rémunérations versées à compter
+du 1er mars 1990*].
 
 **Liens relatifs à cet article**
 
@@ -2115,6 +2149,7 @@ dispositions applicables dans le territoire de Saint-Pierre-et-Miquelon.*]
 	**Liens**:
 
 	  - SPEC_APPLI: Code des pensions de retraite des marins R29
+	  - SPEC_APPLI: Décret n°90-328 1990-04-10 art. 3
 
 	**Codifié par**:
 
@@ -2122,7 +2157,7 @@ dispositions applicables dans le territoire de Saint-Pierre-et-Miquelon.*]
 
 	**Modifié par**:
 
-	  - Décret n°88-1225 du 30 décembre 1988 - art. 1 (V) JORF 31 décembre 1988 en vigueur le 1er janvier 1989
+	  - Décret n°90-328 du 10 avril 1990 - art. 2 () JORF 12 avril 1990
 
 
 ###### Article R25
