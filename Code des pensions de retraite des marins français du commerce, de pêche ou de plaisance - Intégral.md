@@ -1,5 +1,5 @@
 # Code des pensions de retraite des marins français du commerce, de pêche ou de plaisance  
-Version Consolidée au 1994-01-19
+Version Consolidée au 1995-02-05
 
 # Partie législative
 
@@ -1481,6 +1481,65 @@ du 12 juillet 1966.
 	**Abrogé par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+
+## Titre V : Dispositions relatives aux salariés à temps partiel.
+
+###### Article L50
+
+Lorsque le contrat d'engagement du marin est un contrat de travail à temps partiel au sens des dispositions de l'article 24-1
+du code du travail maritime, le salaire forfaitaire mentionné à l'article L. 42 est réduit à une fraction de son montant
+égale au rapport entre la durée du travail prévue au contrat et la durée légale ou conventionnelle du travail.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°68-292 du 21 mars 1968
+
+	**Créé par**:
+
+	  - Loi n°95-116 1995-02-04 art. 88 II JORF 5 février 1995
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5552-23 (V)
+	  - Code des transports - art. L5553-6 (V)
+
+	**Cite**:
+
+	  - Code du travail maritime - art. 24-1
+
+
+###### Article L51
+
+La période d'exécution du contrat de travail à temps partiel est prise en compte pour la totalité de sa durée pour la
+constitution du droit aux pensions prévues par le présent code. Toutefois, pour la liquidation de ces pensions, elle n'est
+comptée que pour la fraction de sa durée égale au rapport entre la durée du travail prévue au contrat et la durée légale ou
+conventionnelle du travail.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°68-292 1968-03-21 JORF 31 mars 1968
+
+	**Créé par**:
+
+	  - Loi n°95-116 1995-02-04 art. 88 II JORF 5 février 1995
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5552-23 (V)
+	  - Code des transports - art. L5553-6 (V)
 
 
 # Partie réglementaire - Décrets en Conseil d'Etat
