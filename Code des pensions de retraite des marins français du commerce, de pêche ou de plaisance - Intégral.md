@@ -1,5 +1,5 @@
 # Code des pensions de retraite des marins français du commerce, de pêche ou de plaisance  
-Version Consolidée au 1987-01-28
+Version Consolidée au 1987-02-20
 
 # Partie législative
 
@@ -1735,7 +1735,7 @@ spéciale du ministre chargé de la marine marchande, être portés au double en
 
 III - Par application de l'article L. 12-6° :
 
-Les services définis audit article, dans la limite de cinq ans.
+Les services définis audit article, dans la limite de quinze ans.
 
 IV - Par application de l'article L. 12 (9°), les périodes définies par cette disposition législative accomplies avant que le
 marin ait atteint l'âge de cinquante-cinq ans.
@@ -1751,13 +1751,13 @@ dispositions applicables dans le territoire de Saint-Pierre-et-Miquelon.*]
 	**Cite**:
 
 	  - Code des pensions de retraite des marins L12
-	  - Décret n°59-626 1959-05-12 ART. 11
-	  - Décret n°81-50 1981-01-21 ART. 2
+	  - Décret n°59-626 1959-05-12 art. 11
+	  - Décret n°81-50 1981-01-21 art. 2
 	  - Code du travail maritime - art. 79 (V)
 	  - Code du travail maritime - art. 81 (M)
 	  - Code du travail maritime - art. 82 (M)
 	  - Code du travail maritime - art. 85 (M)
-	  - Décret-loi 1938-06-17 ART. 3
+	  - Décret-loi 1938-06-17 art. 3
 
 	**Liens**:
 
@@ -1769,7 +1769,7 @@ dispositions applicables dans le territoire de Saint-Pierre-et-Miquelon.*]
 
 	**Modifié par**:
 
-	  - Décret n°81-50 1981-01-21 art. 2 JORF 24 janvier 1981
+	  - Décret n°87-116 1987-02-18 art. 3 JORF 20 février 1987
 
 	**Cité par**:
 
