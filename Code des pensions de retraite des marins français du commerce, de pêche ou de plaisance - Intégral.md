@@ -1,5 +1,5 @@
 # Code des pensions de retraite des marins français du commerce, de pêche ou de plaisance  
-Version Consolidée au 1987-07-30
+Version Consolidée au 1989-01-01
 
 # Partie législative
 
@@ -2122,9 +2122,9 @@ Marins (cas général)
 
 Contribution patronale (%) : 17,70
 
-Cotisation ouvrière (%)    : 10,90
+Cotisation ouvrière (%)    : 11,90
 
-TOTAL                      : 28,60
+TOTAL                      : 29,60
 
 DESIGNATION :
 
@@ -2132,9 +2132,9 @@ Etrangers admis à concourir à pension
 
 Contribution patronale (%) : 17,70
 
-Cotisation ouvrière (%)    : 10,90
+Cotisation ouvrière (%)    : 11,90
 
-TOTAL                      : 28,60
+TOTAL                      : 29,60
 
 DESIGNATION :
 
@@ -2162,11 +2162,9 @@ ramenée de 28,40 p. 100 [*pourcentage*] à 17,70 p. 100 jusqu'au jour où le na
 
 **Nota:**
 
-[*Nota : Code des pensions de retraite des marins art. R29 :
+[*Nota : Code des pensions de retraite des marins R29 :
 
-Dispositions applicables dans le territoire de Saint-Pierre-et-Miquelon.
-
-Décret 87-472 du 30 juin 1987 art. 1 : modifie le taux des cotisations.*]
+dispositions applicables dans le territoire de Saint-Pierre-et-Miquelon.*]
 
 **Liens relatifs à cet article**
 
@@ -2174,9 +2172,17 @@ Décret 87-472 du 30 juin 1987 art. 1 : modifie le taux des cotisations.*]
 
 	  - Code des pensions de retraite des marins L42
 
+	**Liens**:
+
+	  - SPEC_APPLI: Code des pensions de retraite des marins R29
+
+	**Codifié par**:
+
+	  - Décret n°68-292 1968-03-21 JORF 31 mars 1968
+
 	**Modifié par**:
 
-	  - Décret n°88-781 du 22 juin 1988 - art. 2 (V) JORF 29 juin en vigueur le 1er juillet 1988
+	  - Décret n°88-1225 du 30 décembre 1988 - art. 1 (V) JORF 31 décembre 1988 en vigueur le 1er janvier 1989
 
 
 ###### Article R25
