@@ -1,5 +1,5 @@
 # Code des pensions de retraite des marins français du commerce, de pêche ou de plaisance  
-Version Consolidée au 1984-01-20
+Version Consolidée au 1985-01-01
 
 # Partie législative
 
@@ -2140,23 +2140,24 @@ porte que sur la moitié de la contribution patronale dans le cas où cette jaug
 pas ou égale trente tonneaux.
 
 En ce qui concerne les pilotes, les exonérations prévues à l'alinéa ci-dessus ne sont accordées que lorsque le volume annuel
-des bateaux pilotés dans la station à l'entrée et à la sortie des ports n'excède pas cinquante-cinq millions de mètres cubes
-[*volume maximum*]. Le droit à exonérations, apprécié au 1er janvier de chaque année au regard des résultats de l'avant-
-dernière année civile [*périodicité*], est accordé à compter de cette date pour une durée de douze mois.
+des bateaux pilotés dans la station à l'entrée et à la sortie des ports n'excède pas dix millions de mètres cubes [*volume
+maximum*]. Le droit à exonérations, apprécié au 1er janvier de chaque année au regard des résultats de l'avant-dernière année
+civile [*périodicité*], est accordé à compter de cette date pour une durée de douze mois.
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code des pensions de retraite des marins ART. R29 : Dispositions applicables dans le territoire de Saint-Pierre-et-Miquelon
 
 	**Cite**:
 
 	  - Code des pensions de retraite des marins L43
 
+	**Liens**:
+
+	  - SPEC_APPLI: Code des pensions de retraite des marins art. R29
+
 	**Modifié par**:
 
-	  - Décret n°83-1150 1983-12-23 art. 1 JORF 27 décembre 1983
+	  - Décret n°85-177 du 6 février 1985 - art. 1 () JORF 31 mars 1985 en vigueur le 1er janvier 1985
+	  - Décret n°85-177 du 6 février 1985 - art. 2 (V) JORF 31 mars 1985 en vigueur le 1er janvier 1985
 
 
 ###### Article R26
