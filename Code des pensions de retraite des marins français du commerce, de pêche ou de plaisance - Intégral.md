@@ -1,5 +1,5 @@
 # Code des pensions de retraite des marins français du commerce, de pêche ou de plaisance  
-Version Consolidée au 1998-06-14
+Version Consolidée au 1998-09-23
 
 # Partie législative
 
@@ -1950,33 +1950,26 @@ au-delà.
 
 ###### Article R15
 
-Les veuves de marins ont droit à quarante ans ou sans condition d'âge si elles bénéficient de la dispense édictée à l'article
-L. 18 (1er alinéa) à une pension égale à 54 % [*montant de la pension de réversion, taux*] de la pension et des bonifications
-dont le mari était titulaire ou, s'il est décédé avant d'être pensionné, à 54 % de la pension et des bonifications qu'il
-aurait obtenues à cinquante-cinq ans en raison de ses services effectifs.
+La pension de réversion dont peut bénéficier la veuve du marin visée à l'article L. 18 ou le conjoint survivant d'une femme
+marin visé à l'article L. 18-1 est égale à 54 % de la pension et des bonifications dont le marin ou la femme marin était
+titulaire ou, au cas où ils seraient décédés avant d'être pensionnés, de la pension et des bonifications qu'ils auraient
+obtenues à cinquante-cinq ans en raison de leurs services effectifs.
+
+L'âge à partir duquel la veuve d'un marin peut prétendre à la pension prévue par le premier alinéa de l'article L. 18 est
+fixé à quarante ans.
 
 Chaque orphelin a droit en outre à une pension temporaire égale à 10 % de la pension visée ci-dessus, sous réserve, le cas
-échéant, des limites et réductions prévues par l'article L. 18 (2e alinéa) [*montant*].
+échéant, des limites et réductions prévues par l'article L. 18 (2e alinéa).
 
 Sauf le cas où la limite d'âge est supprimée en vertu de l'article L. 18 (dernier alinéa), la pension temporaire d'orphelin
 est payée jusqu'à l'âge de seize ans, ou de dix-huit ans si l'intéressé est en apprentissage, ou de vingt et un ans s'il
 poursuit ses études.
 
-**Nota:**
-
-[*Nota : Code des pensions de retraite des marins R29 :
-
-dispositions applicables dans le territoire de Saint-Pierre-et-Miquelon.*]
-
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Code des pensions de retraite des marins L18
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code des pensions de retraite des marins R29
+	  - Code des pensions de retraite des marins français du commerce, de pêche ou de plaisance L18, L18-1
 
 	**Codifié par**:
 
@@ -1984,7 +1977,7 @@ dispositions applicables dans le territoire de Saint-Pierre-et-Miquelon.*]
 
 	**Modifié par**:
 
-	  - Décret n°95-929 du 22 août 1995 - art. 1 () JORF 23 août 1995 en vigueur le 1er août 1995
+	  - Décret n°98-851 du 16 septembre 1998 - art. 10 () JORF 23 septembre 1998
 
 
 ###### Article R16
