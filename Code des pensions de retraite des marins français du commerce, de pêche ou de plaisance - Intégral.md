@@ -1,5 +1,5 @@
 # Code des pensions de retraite des marins français du commerce, de pêche ou de plaisance  
-Version Consolidée au 1991-09-01
+Version Consolidée au 1994-01-19
 
 # Partie législative
 
@@ -1189,7 +1189,9 @@ navires de mer ou de la part des employeurs, à un versement calculé en fonctio
 l'alimentation de la caisse.
 
 Ce versement comprend, outre la contribution patronale incombant aux propriétaires, armateurs ou employeurs, les cotisations
-personnelles des marins, dont le montant est retenu lors du règlement des salaires.
+personnelles des marins, dont le montant est retenu lors du règlement des salaires. Le taux de la contribution patronale est
+fixé par catégories de navires définies en fonction des caractéristiques techniques, des modalités d'exploitation et de
+l'activité de ces navires.
 
 Ce versement est garanti par le même privilège que les salaires des gens de mer.
 
@@ -1204,10 +1206,6 @@ dispositions applicables dans le territoire de Saint-Pierre-et-Miquelon et de la
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°68-292 1968-03-21 JORF 31 mars 1968
-
 	**Cite**:
 
 	  - Code des pensions de retraite des marins L12 9°
@@ -1216,9 +1214,13 @@ dispositions applicables dans le territoire de Saint-Pierre-et-Miquelon et de la
 
 	  - SPEC_APPLI: Code des pensions de retraite des marins L48
 
+	**Codifié par**:
+
+	  - Décret n°68-292 1968-03-21 JORF 31 mars 1968
+
 	**Modifié par**:
 
-	  - Loi n°79-576 1979-07-10 art. 3 JORF 11 juillet 1979
+	  - Loi n°94-43 du 18 janvier 1994 - art. 74 () JORF 19 janvier 1994
 
 
 ###### Article L42
