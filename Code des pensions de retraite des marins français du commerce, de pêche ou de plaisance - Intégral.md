@@ -1,5 +1,5 @@
 # Code des pensions de retraite des marins français du commerce, de pêche ou de plaisance  
-Version Consolidée au 1983-12-27
+Version Consolidée au 1984-01-20
 
 # Partie législative
 
@@ -2030,6 +2030,106 @@ retraités.
 	**Codifié par**:
 
 	  - Décret n°68-292 1968-03-21 JORF 31 mars 1968
+
+
+###### Article R24
+
+Le montant du versement à effectuer à la caisse de retraites des marins par les propriétaires de navire de mer, par les
+armateurs ou par les employeurs, est calculé en faisant application aux salaires définis par l'article L. 42 d'un coefficient
+global unique obtenu en totalisant les taux des contributions patronales et des cotisations personnelles de marin auxquelles
+peuvent donner lieu les services de chacun des membres des équipages et des participants.
+
+Ces taux sont déterminés conformément au barème ci-après :
+
+==============================================================
+
+<table>
+  <tbody><tr>
+    <td> :      DESIGNATION     : CONTRIBUTION : COTISATION :  TOTAL  :</td>
+  </tr>
+  <tr>
+    <td> :                      :  patronale   :  ouvrière  :         :</td>
+  </tr>
+  <tr>
+    <td> :----------------------:--------------:------------:---------:</td>
+  </tr>
+  <tr>
+    <td> :                      :    p. 100    :   p. 100   :  p. 100 :</td>
+  </tr>
+  <tr>
+    <td> :                      :              :            :         :</td>
+  </tr>
+  <tr>
+    <td> : Marins (cas général) :     17,70    :     10     :   27,70 :</td>
+  </tr>
+  <tr>
+    <td> :                      :              :            :         :</td>
+  </tr>
+  <tr>
+    <td> : Etrangers admis à    :              :            :         :</td>
+  </tr>
+  <tr>
+    <td> :  concourir à pension :     17,70    :     10     :   27,70 :</td>
+  </tr>
+  <tr>
+    <td> :                      :              :            :         :</td>
+  </tr>
+  <tr>
+    <td> : Marins des           :              :            :         :</td>
+  </tr>
+  <tr>
+    <td> :  territoires         :              :            :         :</td>
+  </tr>
+  <tr>
+    <td> :  d'outre-mer non     :              :            :         :</td>
+  </tr>
+  <tr>
+    <td> :  admis à concourir   :              :            :         :</td>
+  </tr>
+  <tr>
+    <td> :  à pension           :     17,70    :   Néant    :   17,70 :</td>
+  </tr>
+  <tr>
+    <td> :                      :              :            :         :</td>
+  </tr>
+  <tr>
+    <td> : Etrangers non admis  :              :            :         :</td>
+  </tr>
+  <tr>
+    <td> :  à concourir à       :              :            :         :</td>
+  </tr>
+  <tr>
+    <td> :  pension             :     27,70    :   Néant    :   27,70 :</td>
+  </tr>
+</tbody></table>
+
+==============================================================
+
+Lorsqu'il est établi, par un rapport de l'autorité consulaire annexé au rôle d'équipage, que l'embarquement d'étrangers hors
+d'un port français a été motivé par l'absence de marins français au port d'embarquement, la contribution patronale est
+ramenée de 27,70 p. 100 [*pourcentage*] à 17,70 p. 100 jusqu'au jour où le navire touche un port français.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code des pensions de retraite des marins ART. R29 : Dispositions applicables dans le territoire de Saint-Pierre-et-Miquelon
+
+	**Cite**:
+
+	  - Code des pensions de retraite des marins L42
+
+	**Modifié par**:
+
+	  - Décret n°72-179 1972-02-29 ART. 1 (1972)
+	  - Décret n°73-853 1973-08-28 ART. 1 (1973)
+	  - Décret n°74-173 1974-02-26 ART. 1 (1974)
+	  - Décret n°75-71 1975-02-04 ART. 1 (1975)
+	  - Décret n°75-974 1975-10-22 ART. 1 (1975)
+	  - Décret n°76-190 1976-02-24 ART. 1 (1976)
+	  - Décret n°76-981 1976-10-29 ART. 1, ART. 2 (1976)
+	  - Décret n°77-929 1977-08-10 ART. 1 (1977)
+	  - Décret n°83-1273 1983-12-30 ART. 1 JORF 20 JANVIER 1984
 
 
 ###### Article R25
