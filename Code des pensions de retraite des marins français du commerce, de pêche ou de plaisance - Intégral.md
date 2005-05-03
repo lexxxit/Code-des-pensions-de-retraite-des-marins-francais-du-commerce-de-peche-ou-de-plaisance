@@ -1,5 +1,5 @@
 # Code des pensions de retraite des marins français du commerce, de pêche ou de plaisance  
-Version Consolidée au 2002-10-20
+Version Consolidée au 2005-05-04
 
 # Partie législative
 
@@ -1318,6 +1318,43 @@ prévu au dernier alinéa de l'article L. 18.
 	  - Code des transports - art. L5553-7 (V)
 	  - Code des transports - art. L5553-8 (V)
 	  - Code des transports - art. L5553-9 (V)
+
+
+###### Article L43-1
+
+Les entreprises d'armement maritime sont exonérées, à compter du 1er janvier 2006, de la contribution patronale visée à
+l'article L. 41 pour les équipages qu'elles emploient et qui sont embarqués à bord des navires de commerce battant pavillon
+français affectés à des activités de transports maritimes soumises à titre principal à une concurrence internationale
+effective.
+
+Les dispositions de l'alinéa précédent sont également applicables aux contributions patronales dues par ces entreprises au
+titre des assurances sociales des marins français contre les risques d'accident, de maladie et d'invalidité versées à la
+caisse générale de prévoyance des marins français.
+
+**Nota:**
+
+Ordonnance n° 2010-1307 du 28 octobre 2010 article 9 : L'abrogation des dispositions mentionnées à l'article 7 ne prendra
+effet qu'à compter de la publication des dispositions réglementaires du code des transports pour ce qui concerne le second
+alinéa de l'article L. 43-1 (Fin de vigueur : date indéterminée).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°68-292 du 21 mars 1968
+
+	**Créé par**:
+
+	  - Loi n°2005-412 du 3 mai 2005 - art. 10 (V) JORF 4 mai 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+	  - Ordonnance n°2011-204 du 24 février 2011 - art. 1
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5553-11 (M)
 
 
 ###### Article L44
