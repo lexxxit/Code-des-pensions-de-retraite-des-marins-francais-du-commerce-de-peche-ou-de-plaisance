@@ -1,5 +1,5 @@
 # Code des pensions de retraite des marins français du commerce, de pêche ou de plaisance  
-Version Consolidée au 2006-03-24
+Version Consolidée au 2009-05-14
 
 # Partie législative
 
@@ -1103,17 +1103,21 @@ droits de timbre et d'enregistrement.
 
 ###### Article L36
 
-Aucun rejet de demande de pension ne peut être régulièrement prononcé que par une décision ministérielle écrite susceptible
-d'être attaquée par la voie contentieuse devant la juridiction administrative.
+Aucun rejet de demande de pension ne peut être régulièrement prononcé que par une décision écrite susceptible d'être attaquée
+par la voie contentieuse devant le tribunal des affaires de sécurité sociale. 
 
-L'assistance judiciaire est accordée de plein droit aux marins ou à leurs ayants droit qui exerceront le pourvoi devant la
-juridiction administrative.
+L'assistance judiciaire est accordée de plein droit aux marins ou à leurs ayants droit qui exerceront l'action visée à
+l'alinéa précédent.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°68-292 1968-03-21 JORF 31 mars 1968
+	  - Loi n°2009-526 du 12 mai 2009 - art. 90
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 
 ###### Article L37
