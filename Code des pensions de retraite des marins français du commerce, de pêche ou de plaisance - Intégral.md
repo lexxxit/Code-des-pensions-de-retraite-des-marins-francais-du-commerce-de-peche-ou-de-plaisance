@@ -1,5 +1,5 @@
 # Code des pensions de retraite des marins français du commerce, de pêche ou de plaisance  
-Version Consolidée au 2010-12-01
+Version Consolidée au 2013-11-09
 
 # Partie législative
 
@@ -93,45 +93,6 @@ L. 24 les mots " l'âge prévu à l'article L. 351 du code de la sécurité soci
 	**Nouveaux textes**:
 
 	  - Code des transports - art. L5552-30 (V)
-
-
-## Titre III : Versements au profit de la caisse de retraites.
-
-###### Article L43-1
-
-Les entreprises d'armement maritime sont exonérées, à compter du 1er janvier 2006, de la contribution patronale visée à
-l'article L. 41 pour les équipages qu'elles emploient et qui sont embarqués à bord des navires de commerce battant pavillon
-français affectés à des activités de transports maritimes soumises à titre principal à une concurrence internationale
-effective.
-
-Les dispositions de l'alinéa précédent sont également applicables aux contributions patronales dues par ces entreprises au
-titre des assurances sociales des marins français contre les risques d'accident, de maladie et d'invalidité versées à la
-caisse générale de prévoyance des marins français.
-
-**Nota:**
-
-Ordonnance n° 2010-1307 du 28 octobre 2010 article 9 : L'abrogation des dispositions mentionnées à l'article 7 ne prendra
-effet qu'à compter de la publication des dispositions réglementaires du code des transports pour ce qui concerne le second
-alinéa de l'article L. 43-1 (Fin de vigueur : date indéterminée).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°68-292 du 21 mars 1968
-
-	**Créé par**:
-
-	  - Loi n°2005-412 du 3 mai 2005 - art. 10 (V) JORF 4 mai 2005
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
-	  - Ordonnance n°2011-204 du 24 février 2011 - art. 1
-
-	**Nouveaux textes**:
-
-	  - Code des transports - art. L5553-11 (M)
 
 
 # Partie réglementaire - Décrets en Conseil d'Etat
@@ -235,40 +196,60 @@ L'âge minimum prévu au deuxième alinéa de l'article L. 8 est fixé à soixan
 
 ###### Article R6
 
-Les services visés au 1° de l'article L. 11 sont :
+En application du 1° de l'article L. 5552-17 du code des transports, comptent pour le double de leur durée : 
 
-a) Les services accomplis à la mer au service de l'Etat entre le 2 août 1914 et le 11 novembre 1918 et entre le 3 septembre
-1939 et le 1er juin 1946 ;
+A.-Au titre de la Seconde Guerre mondiale : 
 
-b) Les services accomplis à bord des navires de commerce et de pêche entre le 2 août 1914 et le 11 novembre 1918 ;
+1° Entre le 3 septembre 1939 et le 1er juin 1946 : 
 
-c) Les services accomplis en totalité ou en partie en Manche, mer du Nord et Atlantique entre le 3 septembre 1939 et le 1er
-juin 1946 ;
+a) Les services embarqués au service de l'Etat sur un navire de guerre ou réquisitionné ; 
 
-d) Les services accomplis en Méditerranée entre le 11 juin 1940 et la date légale de cessation des hostilités ainsi que dans
-les autres mers sur les navires dont les équipages ont bénéficié des primes de la loi du 14 septembre 1940 ;
+b) Les services embarqués en Manche, mer du Nord et Atlantique ; 
 
-e) Les services accomplis entre le 2 août 1914 et le 11 novembre 1918 et entre le 3 septembre 1939 et le 1er juin 1946 dans
-les formations maritimes ou militaires françaises ou alliées ayant combattu à terre ou dans les organisations de Résistance ;
+c) Les services embarqués dans les formations maritimes ou militaires françaises ou alliées ayant combattu à terre ou dans
+les organisations de Résistance ; 
 
-f) Les périodes passées à terre en attente d'un embarquement dans le cadre d'un engagement dans les forces françaises libres,
-entre le 26 juin 1940 et le 30 octobre 1943, dans la limite d'une durée égale à celle des embarquements effectués au cours de
-cette période.
+d) Les services embarqués sur des navires dont les équipages ont bénéficié des primes de l'acte dit loi du 14 septembre
+1940 ; 
+
+2° Entre le 11 juin 1940 et le 1er juin 1946, les services embarqués en Méditerranée ou les services embarqués au large des
+côtes de la Nouvelle-Calédonie ; 
+
+3° Entre le 26 juin 1940 et le 30 octobre 1943, les périodes passées à terre en attente d'un embarquement dans le cadre d'un
+engagement dans les forces françaises libres, dans la limite d'une durée égale à celle des embarquements effectués au cours
+de cette période. 
+
+B.-Au titre de la guerre d'Indochine, entre le 15 septembre 1945 et le 1er octobre 1957, les services embarqués en Indochine
+par des marins ayant combattu en Indochine. Est considéré comme ayant combattu en Indochine tout militaire qui a effectué du
+service en Indochine ou qui, embarqué à destination de l'Indochine, en a été détourné pour maladie ou blessure susceptibles
+d'ouvrir droit au bénéfice d'une pension militaire d'invalidité. 
+
+C.-Pendant les opérations de Corée, entre le 25 juin 1950 et le 28 juillet 1953, les services embarqués en Corée par des
+marins ayant combattu en Corée. Est considéré comme ayant combattu en Corée tout militaire qui a effectué du service en Corée
+ou qui, embarqué à destination de la Corée, en a été détourné pour maladie ou blessure susceptibles d'ouvrir droit au
+bénéfice d'une pension militaire d'invalidité. 
+
+D.-Pendant la guerre d'Algérie et les combats en Tunisie et au Maroc, entre le 1er janvier 1952 et le 2 juillet 1962, les
+services militaires embarqués au large des côtes algériennes, tunisiennes et marocaines et les services militaires à terre en
+Algérie, en Tunisie et au Maroc durant lesquels le marin a pris part à une action de feu ou de combat ou a subi le feu. 
+
+L'exposition invoquée en faveur de ce bénéfice sera établie par les archives collectives de l'unité à laquelle les marins
+étaient rattachés ou l'unité concernant le secteur dans lequel se sont produites ces actions.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Code des pensions de retraite des marins français du commerce, de pêche ou de plaisance L11
-	  - Loi n°1940-09-14
+	  - Loi du 14 septembre 1940
+	  - Code des transports - art. L5552-17
 
 	**Codifié par**:
 
-	  - Décret n°68-292 1968-03-21 JORF 31 mars 1968
+	  - Décret n°68-292 du 21 mars 1968
 
 	**Modifié par**:
 
-	  - Décret n°79-791 1979-09-13 art. 1 JORF 15 septembre 1979
+	  - Décret n°2013-992 du 6 novembre 2013 - art. 1
 
 
 ###### Article R7
